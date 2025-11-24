@@ -74,9 +74,3 @@ The Password Strength Analyser is a simple yet effective tool designed to evalua
    * Empty input (if handled)
 
 ---
-
-## **📸 Screenshots (Optional)**
-
-*Add screenshots of your terminal output or project folder here.*
-
----
